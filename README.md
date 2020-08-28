@@ -7,7 +7,7 @@ This is the sample project to make API call in SwiftUI
 
 ### Features
 1. Used Flickr Service
-2. Normal API Call (HoweView.swift)
+2. Normal API Call (HomeView.swift)
 3. Used View Model (HomeViewWithViewModel.swift)
 4. QGrid (https://github.com/Q-Mobile/QGrid)
 5. Image from URL
